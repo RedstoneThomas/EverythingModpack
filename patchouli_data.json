@@ -1,0 +1,50 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:devices/fel_pumpkin",
+        "botania:ender/ender_eye_block",
+        "botania:misc/dispenser_tweaks",
+        "botania:basics/black_lotus",
+        "botania:basics/flowers",
+        "botania:basics/lexicon",
+        "botania:baubles/item_finder",
+        "botania:misc/banners",
+        "botania:ender/ender_air",
+        "botania:misc/pavement",
+        "botania:misc/azulejo",
+        "botania:basics/welcome",
+        "botania:baubles/intro",
+        "botania:misc/preventing_decay",
+        "botania:tools/overgrowth_seed",
+        "botania:misc/blaze_block",
+        "botania:misc/cacophonium",
+        "botania:alfhomancy/intro",
+        "botania:mana/pool",
+        "botania:mana/spreader",
+        "botania:tools/grass_seeds",
+        "botania:devices/mana_conjuration"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "extendedcrafting:guide": {
+      "viewedEntries": [
+        "extendedcrafting:crafting/combination",
+        "extendedcrafting:crafting/tables"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "pneumaticcraft:book": {
+      "viewedEntries": [
+        "pneumaticcraft:programming/goto",
+        "pneumaticcraft:programming/external_program"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
